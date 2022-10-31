@@ -1,5 +1,7 @@
 # text-mining
 
+To find a twitter ID, use: https://www.codeofaninja.com/tools/find-twitter-id/
+
 Project Overview:
 
 For this project, I used Twitter data (tweets) as a data source in order to analyze the sentiment of X number of the latest tweets by Y user. Sentiment analysis was performed on these tweets using natural language processing (nltk library) in order to derive scores for positive, neutral and negative instances. When approaching this task, I was hoping to be able to deploy a Twitter bot that is able to gauge the overall sentiment of different VC GPs in order to conduct market research and sentiment analysis for my current job.
