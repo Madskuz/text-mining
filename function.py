@@ -16,7 +16,7 @@ def scrape():
     """
     id = input('insert id: ') # source: https://developer.twitter.com/en/portal/products/elevated
     num_tweets = int(input('number of tweets: '))
-    client = tweepy.Client('AAAAAAAAAAAAAAAAAAAAAErvigEAAAAAOasZvHDmIq4wEMbAwRcoQi09ero%3DX66a9NIIaCv88hku9AK3dQV533tm73S3T18BkgXWKMCIhDmFKT')
+    client = tweepy.Client('INSERT_BEARER_TOKEN_HERE')
     # create list to store tweets
     tweets = []
     for tweet in tweepy.Paginator(client.get_users_tweets, # source for use of paginator: https://github.com/mlachha/Twitter_nlp/blob/main/twitter_bert.ipynb
