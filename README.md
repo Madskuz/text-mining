@@ -24,9 +24,9 @@ Figure 2: Compound sentiment scores for 300 of my tweets
 <img width="577" alt="image" src="https://user-images.githubusercontent.com/112597537/200094923-7f1a50dc-0b06-4db9-9a0f-d11acc731e58.png">
 Figure 3: Compound sentiment scores for all of Babson Twitter Account (@Babson) tweets
 
-Another way, I segmented sentiment distribution was by creating 3 classes that separated overwhelmingly positive and negative from more neutral tweets, creating 3 categories in the process, and bucketing tweets into one of the three. Overall, the majority of my tweets (figure 4) are more neutral, while a very small section of my tweets is overwhelmingly negative. Interestingly, I tend to be more neutral than the Babson Twitter account (figure 5), which is likely a function of the Babson twitter serving as a marketing tool and therefore wanting to evoke more positive sentiment. Babson’s twitter average sentiment score (for the last 100 tweets) is 0.38 while mine is 0.26.
+Another way, I segmented sentiment distribution was by creating 3 classes that separated overwhelmingly positive and negative from more neutral tweets, creating 3 categories in the process, and bucketing tweets into one of the three. Overall, the majority of my tweets (figure 4) are more neutral, while a very small section of my tweets is overwhelmingly negative. Interestingly, I tend to be more neutral than the Babson Twitter account (figure 5), which is likely a function of the Babson twitter serving as a marketing tool and therefore wanting to evoke more positive sentiment. Babson’s twitter average sentiment score (for the last 100 tweets) is 0.38 while mine is 0.19 (lesson here is that I need to be more positive - more maybe Babson needs to be less positive).
 
-<img width="591" alt="image" src="https://user-images.githubusercontent.com/112597537/200095011-b68f5c08-7817-48b3-b84b-762442a67027.png">
+<img width="481" alt="image" src="https://user-images.githubusercontent.com/112597537/200095056-3bfcc3e0-e860-4b7a-91b4-9daf82a6d29e.png">
 Figure 4: My division of sentiment (positive, negative, neutral) as a proportion of 300 tweets
 
 <img width="479" alt="image" src="https://user-images.githubusercontent.com/112597537/200094910-28673c90-7fe1-42d5-ac13-14cd7ae57f65.png">
