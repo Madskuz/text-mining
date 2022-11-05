@@ -18,7 +18,7 @@ Results:
 
 After running the sentiment analysis over my last 100 tweets, I found that sentiment typically tends to be highly volatile as pictured in Figure 2. My tweets would jump from close to 1 (highly positive) to 0 (neutral) to close to -1 (highly negative). This is also the case with Babson's Math and Science Twitter account, however, this account has a strong skew toward positive sentiment (see Figure 2). This is an interesting application of sentiment analysis as it can be used to flag an overly negative person on Twitter for review (in case the user is struggling with the likes of depression, etc.).
 
-<img width="587" alt="image" src="https://user-images.githubusercontent.com/112597537/200094822-1fd9581c-d2af-4664-a956-a8153c7e337e.png">
+<img width="591" alt="image" src="https://user-images.githubusercontent.com/112597537/200095027-98b773d3-2b64-4736-8e41-9222796abd87.png">
 Figure 2: Compound sentiment scores for 300 of my tweets
 
 <img width="577" alt="image" src="https://user-images.githubusercontent.com/112597537/200094923-7f1a50dc-0b06-4db9-9a0f-d11acc731e58.png">
